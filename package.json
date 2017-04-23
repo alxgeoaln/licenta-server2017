@@ -10,7 +10,6 @@
   "author": "Georgian Alin Alexandru",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "*",
     "cors": "^2.8.3",
